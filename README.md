@@ -1,4 +1,5 @@
-Chatbot Intent Recognition using BERT
+##Chatbot Intent Recognition using BERT
+
 🧠 Project Overview
 This project demonstrates how to build a chatbot capable of classifying user intents using BERT (Bidirectional Encoder Representations from Transformers). Leveraging BERT's deep contextual understanding, the model can accurately interpret user queries, making it suitable for applications in customer support, virtual assistants, and more.
 
